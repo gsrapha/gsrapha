@@ -22,7 +22,7 @@
     <img aling= "center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div></br>
 
-Contato por email: rapha.gscorp@gmail.com
+Contato por email: rapha.gscorp@gmail.com </br>
 Contato por WhatsApp/Cel: (21)97378-0383
 
 
